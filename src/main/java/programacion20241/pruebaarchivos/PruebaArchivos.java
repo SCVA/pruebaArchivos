@@ -6,8 +6,6 @@ package programacion20241.pruebaarchivos;
 
 import java.io.*;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
